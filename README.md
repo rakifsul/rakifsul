@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**rakifsul/rakifsul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Selamat datang di akun GitHub ini.
 
-Here are some ideas to get you started:
+Untuk belajar coding, silakan baca di repository-repository ini.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Belajar Coding Dasar
+
+- [Belajar Coding Electron JS](https://github.com/rakifsul/belajar_coding_electron_js)
+- [Belajar Coding Node JS](https://github.com/rakifsul/belajar_coding_node_js)
+- [Belajar Coding Python 3](https://github.com/rakifsul/belajar_coding_python_3)
+- [Belajar Coding Godot Engine 3](https://github.com/rakifsul/belajar_coding_godot_3)
+
+## Belajar Studi Kasus coding
+
+- [Studi Kasus Electron JS Membuat Aplikasi Video Player](https://github.com/rakifsul/studi_kasus_electron_js_video_player)
