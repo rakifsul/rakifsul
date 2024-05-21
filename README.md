@@ -17,6 +17,6 @@ Untuk belajar coding, silakan baca di repository-repository ini.
 
 - [Studi Kasus Electron JS Membuat Aplikasi Video Player](https://github.com/rakifsul/studi_kasus_electron_js_video_player)
 
-## Belajar Non coding
+## Belajar Non-Coding
 
 - [Belajar Software](https://github.com/rakifsul/Belajar-Software)
