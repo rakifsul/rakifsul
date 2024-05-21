@@ -1,8 +1,8 @@
-# Hi there 👋
+# RAKIFSUL: Hi there 👋
 
 Selamat datang di akun GitHub ini.
 
-Artikel-artikel blog saya yang lama (www.rakifsul.my.id) akan dipindahkan ke sini.
+Artikel-artikel blog saya yang lama (www.rakifsul.my.id) pindah ke sini.
 
 Untuk belajar coding, silakan baca di repository-repository ini.
 
@@ -16,3 +16,7 @@ Untuk belajar coding, silakan baca di repository-repository ini.
 ## Belajar Studi Kasus Coding
 
 - [Studi Kasus Electron JS Membuat Aplikasi Video Player](https://github.com/rakifsul/studi_kasus_electron_js_video_player)
+
+## Belajar Non coding
+
+- [Belajar Software](https://github.com/rakifsul/Belajar-Software)
