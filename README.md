@@ -8,7 +8,7 @@ Untuk belajar coding dan software, silakan baca di repository-repository ini.
 
 ## Belajar Non-Coding
 
-- [Belajar Software](https://github.com/rakifsul/Belajar-Software)
+- [Belajar Software](https://github.com/rakifsul/belajar_software)
 
 ## Belajar Coding Dasar
 
