@@ -26,10 +26,12 @@ Untuk belajar coding dan software, silakan baca di repository-repository ini.
 - [Studi Kasus Electron JS Membuat Aplikasi Video Player](https://github.com/rakifsul/studi_kasus_electron_js_video_player)
 - [Studi Kasus Python 3 Membuat Aplikasi Password Generator](https://github.com/rakifsul/studi_kasus_python_3_password_generator)
 
+## Link Penting
+
 Kunjungi juga link saya:
 
 https://taplink.cc/rakifsul
 
-Barangkali ada gunanya.
+Barangkali Anda ingin mentraktir saya atau membeli produk saya.
 
 Selamat menikmati.
