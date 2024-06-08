@@ -36,10 +36,14 @@ Untuk belajar coding dan software, silakan baca di repository-repository ini.
 
 ## Link Penting
 
-Kunjungi juga link saya:
+Kunjungi juga link saya.
 
-https://taplink.cc/rakifsul
+Link untuk traktir atau beli produk saya:
 
-Barangkali Anda ingin mentraktir saya atau membeli produk saya.
+- https://karyakarsa.com/rakifsul
+
+Link selengkapnya:
+
+- https://taplink.cc/rakifsul
 
 Selamat menikmati.
