@@ -1,7 +1,7 @@
 # RAKIFSUL
 
 ```
-console.log("Hi there 👋");
+console.log("Hi there!");
 ```
 
 Selamat datang di akun GitHub ini.
