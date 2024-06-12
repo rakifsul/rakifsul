@@ -6,7 +6,7 @@ console.log("Hi there 👋");
 
 Selamat datang di akun GitHub ini.
 
-Artikel-artikel blog saya yang lama ( https://www.rakifsul.my.id ) pindah ke sini.
+Artikel-artikel blog saya yang lama pindah ke sini.
 
 Untuk belajar coding dan software, silakan baca di repository-repository ini.
 
