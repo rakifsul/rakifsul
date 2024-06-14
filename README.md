@@ -36,7 +36,7 @@ Untuk belajar coding dan software, silakan baca di repository-repository ini.
 
 ## Aplikasi Gratis
 
-Saya juga membuat aplikasi-gratis, misalnya:
+Saya juga membuat aplikasi-aplikasi gratis, misalnya:
 
 - [RF Tools Pack: koleksi aplikasi alat beragam fungsi](https://github.com/rakifsul/rf_tools_pack)
 
