@@ -34,6 +34,12 @@ Untuk belajar coding dan software, silakan baca di repository-repository ini.
 ### Python 3
 - [Studi Kasus Python 3 Membuat Aplikasi Password Generator](https://github.com/rakifsul/studi_kasus_python_3_password_generator)
 
+## Aplikasi Gratis
+
+Saya juga membuat aplikasi-gratis, misalnya:
+
+- [RF Tools Pack: koleksi aplikasi alat beragam fungsi](https://github.com/rakifsul/rf_tools_pack)
+
 ## Link Penting
 
 Kunjungi juga link saya.
