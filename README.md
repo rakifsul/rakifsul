@@ -52,4 +52,4 @@ Link selengkapnya:
 
 - https://taplink.cc/rakifsul
 
-Selamat menikmati.
+Selamat menikmati...
