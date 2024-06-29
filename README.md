@@ -9,7 +9,7 @@ I wrote a simple JavaScript program to make my browser a little bit slower.
 
 const a = "a"; // const a = "a";
 
-while(true){ // while(true)
+while(true) { // while(true) {
 	try { // try {
 		console.log(a); // console.log(a); 
 	} catch (err) { // } catch (err) {
@@ -17,7 +17,7 @@ while(true){ // while(true)
 	} finally { // } finally {
 		console.log(a); // console.log(a);
 	} // }
-}
+} // }
 ```
 
 Check my pinned repositories for all apps i have made.
