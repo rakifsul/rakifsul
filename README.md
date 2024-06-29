@@ -20,4 +20,4 @@ while(true){ // while(true)
 }
 ```
 
-Check my pinned repositories for all apps and tutorials i have made.
+Check my pinned repositories for all apps i have made.
