@@ -25,7 +25,7 @@ And this is how i connect my Android device to my PC with scrcpy:
 ```
 @echo off
 
-echo ScrCpy Wizard v1.0.0, written by RAKIFSUL
+echo ScrCpy Command Builder v1.0.0, written by RAKIFSUL
 
 echo[
 
