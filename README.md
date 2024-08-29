@@ -2,10 +2,12 @@
 
 ![Static Badge](https://img.shields.io/badge/rakifsul-lusfikar-red)
 
+### Browser Slower
+
 I wrote a simple JavaScript program to make my browser a little bit slower.
 
 ```
-// rf_hangover v1.0.0
+// rf_hangover v1.0.0, written by RAKIFSUL
 
 const a = "a"; // const a = "a";
 
@@ -20,7 +22,9 @@ while(true) { // while(true) {
 } // }
 ```
 
-And this is how i connect my Android device to my PC with scrcpy:
+### ScrCpy Command Builder
+
+Writing an interactive app for connecting Android to PC might be a good idea:
 
 ```
 @echo off
@@ -76,4 +80,12 @@ echo Selamat, jika koneksi berhasil, saya akan menjalankan scrcpy dengan paramet
 scrcpy --video-bit-rate=8M --max-size=1090 --max-fps=60 -e
 ```
 
-Check my pinned repositories for all apps i have made.
+### And More...
+
+README(s) for App repositories are written in English and Bahasa Indonesia.
+
+Tutorials are written in Bahasa Indonesia.
+
+My pinned repositories below are index for most of the repositories in this GitHub account.
+
+Make sure to check them first before exploring my GitHub account.
