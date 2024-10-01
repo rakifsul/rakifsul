@@ -7,7 +7,7 @@
 I wrote a simple JavaScript program to make my browser a little bit slower.
 
 ```
-// rf_hangover v1.0.0, written by RAKIFSUL
+// Browser Slower v1.0.0, written by RAKIFSUL
 
 const a = "a"; // const a = "a";
 
