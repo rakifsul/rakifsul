@@ -86,6 +86,6 @@ README(s) for App repositories are written in English and Bahasa Indonesia.
 
 Tutorials are written in Bahasa Indonesia.
 
-My pinned repositories below are index for most of the repositories in this GitHub account.
+My pinned repositories below are indexes for most of the repositories in this GitHub account.
 
 Make sure to check them first before exploring my GitHub account.
