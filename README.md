@@ -6,7 +6,7 @@ I'm a freelance desktop and web developer.
 
 I write open source apps when there is no job.
 
-Fore example...
+For examples... See below.
 
 <details>
 
