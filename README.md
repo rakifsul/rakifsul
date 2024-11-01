@@ -8,9 +8,11 @@ I write open source apps when there is no job.
 
 For examples... See below.
 
+### Browser Slower
+
 <details>
 
-<summary>### Browser Slower</summary>
+<summary>Click Here!</summary>
 
 I wrote a simple JavaScript program to make my browser a little bit slower.
 
@@ -31,9 +33,11 @@ while(true) { // while(true) {
 ```
 </details>
 
+### ScrCpy Command Builder
+
 <details>
 
-<summary>### ScrCpy Command Builder</summary>
+<summary>Click Here!</summary>
 
 Writing an interactive app for connecting Android to PC might be a good idea:
 
