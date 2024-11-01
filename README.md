@@ -2,6 +2,8 @@
 
 ![Static Badge](https://img.shields.io/badge/rakifsul-lusfikar-red)
 
+## Introduction
+
 I'm a freelance desktop and web developer.
 
 I write open source apps when there is no job.
@@ -96,6 +98,6 @@ scrcpy --video-bit-rate=8M --max-size=1090 --max-fps=60 -e
 ```
 </details>
 
-But wait, there's more.
+## But wait, there's more.
 
 Just visit the pinned repositories below.
