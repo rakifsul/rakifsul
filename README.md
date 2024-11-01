@@ -10,7 +10,7 @@ For examples... See below.
 
 <details>
 
-<summary>Browser Slower</summary>
+<summary>### Browser Slower</summary>
 
 I wrote a simple JavaScript program to make my browser a little bit slower.
 
@@ -33,7 +33,7 @@ while(true) { // while(true) {
 
 <details>
 
-<summary>ScrCpy Command Builder</summary>
+<summary>### ScrCpy Command Builder</summary>
 
 Writing an interactive app for connecting Android to PC might be a good idea:
 
