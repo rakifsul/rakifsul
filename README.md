@@ -2,7 +2,15 @@
 
 ![Static Badge](https://img.shields.io/badge/rakifsul-lusfikar-red)
 
-### Browser Slower
+I'm a freelance desktop and web developer.
+
+I write open source apps when there is no job.
+
+Fore example...
+
+<details>
+
+<summary>Browser Slower</summary>
 
 I wrote a simple JavaScript program to make my browser a little bit slower.
 
@@ -21,8 +29,11 @@ while(true) { // while(true) {
 	} // }
 } // }
 ```
+</details>
 
-### ScrCpy Command Builder
+<details>
+
+<summary>ScrCpy Command Builder</summary>
 
 Writing an interactive app for connecting Android to PC might be a good idea:
 
@@ -79,13 +90,8 @@ echo Selamat, jika koneksi berhasil, saya akan menjalankan scrcpy dengan paramet
 
 scrcpy --video-bit-rate=8M --max-size=1090 --max-fps=60 -e
 ```
+</details>
 
-### And More...
+But wait, there's more.
 
-README(s) for App repositories are written in English and Bahasa Indonesia.
-
-Tutorials are written in Bahasa Indonesia.
-
-My pinned repositories below are indexes for most of the repositories in this GitHub account.
-
-Make sure to check them first before exploring my GitHub account.
+Just visit the pinned repositories below.
