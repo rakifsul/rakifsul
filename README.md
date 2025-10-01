@@ -17,7 +17,7 @@ https://www.rakifsul.my.id
 
 Berikut ini portfolio gallery saya:
 
-https://github.com/rakifsul/rakifsul/releases
+https://github.com/rakifsul/rakifsul/releases/latest
 
 Selain itu, portfoilo lain saya ada di repository saya di akun ini.
 
