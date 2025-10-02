@@ -9,7 +9,12 @@ Skill saya:
 - Pengerjaan Website dan Aplikasi Web
     - PHP
     - Node.js
-- Pembuatan Bio Link/Link in Bio dengan subdomain Blogspot
+- Pembuatan Bio Link/Link in Bio.
+- Pembuatan Landing Page.
+- Pembuatan Company Profile.
+- Pembuatan Blog/Website Pribadi.
+- Pembuatan Search Engine.
+- Pembuatan Sistem Informasi.
 
 Jika Anda ingin konsultasikan project Anda, hubungi:
 
