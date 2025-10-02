@@ -11,9 +11,9 @@ Skill saya:
     - Node.js
 - Pembuatan Bio Link/Link in Bio dengan subdomain Blogspot
 
-Jika Anda ingin konsultasikan project Anda, kunjungi:
+Jika Anda ingin konsultasikan project Anda, hubungi:
 
-https://www.rakifsul.my.id
+biryanisoft@gmail.com
 
 Berikut ini portfolio gallery saya:
 
