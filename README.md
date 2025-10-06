@@ -6,11 +6,9 @@ Skill saya:
 
 - Pembuatan ide aplikasi dan detailnya
 - Pembuatan artikel teknis seputar IT
-
 - Pengerjaan Website dan Aplikasi Web
     - PHP
     - Node.js
-
 - Pembuatan Bio Link/Link in Bio
 - Pembuatan Blog/Website Pribadi
 - Pembuatan Plugin WordPress
@@ -18,7 +16,6 @@ Skill saya:
 - Modifikasi Tampilan WordPress
 - Pembuatan Template Blogger (blogspot)
 - Modifikasi Tampilan Blogger (blogspot)
-
 - Pembuatan Website Company Profile
 - Pembuatan Website Landing Page
 - Pembuatan Aplikasi Search Engine
