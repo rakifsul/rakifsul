@@ -28,7 +28,7 @@ biryanisoft@gmail.com
 
 Berikut ini portfolio gallery saya:
 
-https://github.com/rakifsul/rakifsul/releases/latest
+[https://github.com/rakifsul/rakifsul/releases/download/2025.10.01-2221/portfolio-rakifsul-2025.10.01-2221.zip](DOWNLOAD)
 
 Selain itu, portfoilo lain saya ada di repository saya di akun ini.
 
