@@ -26,9 +26,13 @@ Saya suka menulis, coding, dan mengoprek software komputer.
 
 Sebelum Anda menggunakan saya, harap konsultasikan project Anda dulu ke saya.
 
-Untuk konsultasikan project Anda, kontak saya di issue tracker:
+Untuk konsultasikan project Anda, kirim email ke:
 
-[KONTAK SAYA](https://github.com/rakifsul/rakifsul/issues)
+biryanisoft@gmail.com
+
+Jika email saya tidak berfungsi, laporkan di issue tracker:
+
+[ISSUES](https://github.com/rakifsul/rakifsul/issues)
 
 ## Portfolio
 
