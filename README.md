@@ -32,7 +32,7 @@ biryanisoft@gmail.com
 
 Jika email saya tidak berfungsi, laporkan di issue tracker:
 
-[ISSUES](https://github.com/rakifsul/rakifsul/issues)
+[LAPORKAN EMAIL TIDAK BERFUNGSI](https://github.com/rakifsul/rakifsul/issues)
 
 ## Portfolio
 
