@@ -26,7 +26,7 @@ Saya suka menulis, coding, dan mengoprek software komputer.
 
 Jika Anda ingin konsultasikan project Anda, kontak saya di issue tracker:
 
-[Kontak Saya](https://github.com/rakifsul/rakifsul/issues)
+[KONTAK SAYA](https://github.com/rakifsul/rakifsul/issues)
 
 ## Portfolio
 
