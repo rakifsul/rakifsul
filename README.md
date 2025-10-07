@@ -34,11 +34,11 @@ Untuk konsultasikan project Anda, kontak saya di issue tracker:
 
 Berikut ini portfolio artikel saya:
 
-[LIHAT](https://rakifsul.github.io/tags/artikel/)
+[LIHAT ARTIKEL SAYA](https://rakifsul.github.io/tags/artikel/)
 
 Berikut ini portfolio gallery saya:
 
-[DOWNLOAD](https://github.com/rakifsul/rakifsul/releases/download/2025.10.01-2221/portfolio-rakifsul-2025.10.01-2221.zip)
+[DOWNLOAD GALERI PORTFOLIO SAYA](https://github.com/rakifsul/rakifsul/releases/download/2025.10.01-2221/portfolio-rakifsul-2025.10.01-2221.zip)
 
 Selain itu, portfoilo lain saya ada di repository saya di akun ini.
 
