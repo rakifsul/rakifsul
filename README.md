@@ -2,7 +2,7 @@
 
 Saya suka menulis, coding, dan mengoprek software komputer.
 
-Skill saya:
+## Skill Saya
 
 - Pembuatan ide aplikasi dan detailnya
 - Pembuatan artikel teknis seputar IT
@@ -22,14 +22,20 @@ Skill saya:
 - Pembuatan Aplikasi Kursus Online
 - Pembuatan Aplikasi Blog Membership
 
-Jika Anda ingin konsultasikan project Anda, hubungi:
+## Konsultasi dan Kontak
 
-biryanisoft@gmail.com
+Jika Anda ingin konsultasikan project Anda, kontak saya di issue tracker:
+
+[Kontak Saya](https://github.com/rakifsul/rakifsul/issues)
+
+## Portfolio
 
 Berikut ini portfolio gallery saya:
 
 [DOWNLOAD](https://github.com/rakifsul/rakifsul/releases/download/2025.10.01-2221/portfolio-rakifsul-2025.10.01-2221.zip)
 
 Selain itu, portfoilo lain saya ada di repository saya di akun ini.
+
+## Sampai Jumpa!
 
 Sampai jumpa di project selanjutnya.
