@@ -21,7 +21,7 @@ Hingga pada akhirnya Raki menemukan repository yang berisi kode pendek, tapi cuk
 Mengambil langkah cepat, Raki memutuskan untuk membuat repository baru dan melakukan:
 
 ```
-git clone git@example.com:raki/code-snippets.git
+git clone git@localhost:raki/code-snippets.git
 
 cd code-snippets
 
