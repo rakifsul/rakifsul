@@ -1,5 +1,9 @@
 # Petualangan Raki Membuat Code Snippets
 
+```
+Disclaimer: Kisah ini fiktif.
+```
+
 "Source code aplikasi yang besar terlalu panjang...", kata Raki dalam hati.
 
 Malam itu Raki sedang bosan, entah apa penyebabnya.
