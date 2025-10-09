@@ -40,7 +40,7 @@ Setelah menyelesaikan kode ini:
 console.log("old macdonald had a code, 0x313100 ...")
 ````
 
-Rocky menuju terminal dan melakukan:
+Raki menuju terminal dan melakukan:
 
 ```
 git add .
