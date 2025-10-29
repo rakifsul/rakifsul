@@ -1,9 +1,7 @@
-# Saya RAKIFSUL
+# I am RAKIFSUL
 
-Saya suka coding dan menulis artikel dan saya mempublikasinya di sini.
+I write codes and blog posts.
 
-[Klik di sini](https://trakteer.id/rakifsul) untuk menyumbang saya.
+Visit [www.rakifsul.my.id](https://www.rakifsul.my.id) to see my website.
 
-Dengan menyumbang saya, Anda telah membantu saya.
-
-Terima kasih atas sumbangan Anda.
+My website contains links.
