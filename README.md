@@ -1,22 +1,22 @@
 # I am RAKIFSUL
 
-## Introduction
+### Introduction
 
 I will post my future announcement below.
 
-## My Website
+### My Website
 
 Visit [www.rakifsul.my.id](https://www.rakifsul.my.id).
 
-## Thanks for Coming
+### Thanks for Coming
 
 Thanks for coming and keep checking my updates.
 
-## Announcement
+# Announcement
 
 ### 2025-11-30 23:10
 
-I started to sell premium content access. Please check my website.
+I started to sell premium content access [on this platform](https://karyakarsa.com/rakifsul).
 
 ### 2025-11-29 01:00
 
