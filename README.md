@@ -14,7 +14,7 @@ Thanks for coming and keep checking my updates.
 
 # Announcement
 
-### 2025-12-02 0527
+### 2025-12-02 05:27
 
 Saya membuat resep **Tempeh Fries RAKIFSUL** dengan ChatGPT. **Beli resepnya**, coba praktikkan, kemudian jika enak beritahu saya di **issue tracker**. [Cek resepnya di sini](https://karyakarsa.com/rakifsul/resep-tempeh-fries-rakifsul).
 
