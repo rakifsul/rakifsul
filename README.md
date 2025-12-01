@@ -14,6 +14,10 @@ Thanks for coming and keep checking my updates.
 
 # Announcement
 
+### 2025-12-02 0527
+
+Saya membuat resep *Tempeh Fries RAKIFSUL* dengan ChatGPT. Beli resepnya, coba praktikkan, kemudian jika enak beritahu saya. [Cek di sini](https://karyakarsa.com/rakifsul/resep-tempeh-fries-rakifsul).
+
 ### 2025-11-30 23:10
 
 I started to sell premium content access [on this platform](https://karyakarsa.com/rakifsul).
