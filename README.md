@@ -1,18 +1,8 @@
-# I am RAKIFSUL
-
-### Introduction
-
-I will post my future announcement below.
-
-### My Website
-
-Visit [www.rakifsul.my.id](https://www.rakifsul.my.id).
-
-### Thanks for Coming
-
-Thanks for coming and keep checking my updates.
-
 # Announcement
+
+### 2025-12-03 07:49
+
+I have updated **rakifsul-ngoding** contents by adding python3 tutorials. Go ahead and [read them](https://github.com/rakifsul/rakifsul-ngoding).
 
 ### 2025-12-02 05:27
 
