@@ -1,5 +1,9 @@
 # Announcement
 
+### 2025-12-05 02:32
+
+Saya telah selesai menulis artikel premium "**Mengenal Perintah ls di Linux**". [Ayo LANGSUNG beli di sini!](https://karyakarsa.com/rakifsul/mengenal-perintah-ls-di-linux).
+
 ### 2025-12-03 07:49
 
 I have updated **rakifsul-ngoding** contents by adding python3 tutorials. Go ahead and [read them](https://github.com/rakifsul/rakifsul-ngoding).
