@@ -1,4 +1,8 @@
-# Announcement
+# Announcements
+
+### 2025-12-08 21:42
+
+Saya telah selesai membuat produk wallpaper smartphone bergambar piring kosong dengan tulisan 404. [Langsung beli](https://karyakarsa.com/rakifsul/wallpaper-smartphone-gambar-piring-404-error), pasang, kemudian kasih lihat ke orang-orang.
 
 ### 2025-12-05 02:32
 
