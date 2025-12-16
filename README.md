@@ -1,8 +1,8 @@
 # Announcements
 
-### 2025-12-08 21:42
+### 2025-12-17 05:33
 
-Saya telah selesai membuat produk **wallpaper smartphone** bergambar **piring kosong dengan tulisan 404**. [Langsung beli](https://karyakarsa.com/rakifsul/wallpaper-smartphone-gambar-piring-404-error), pasang, kemudian kasih lihat ke orang-orang.
+Ebook **"Chatting dengan AI secara Lokal di Komputer Low End"** telah dipublikasi. [Langsung beli](https://karyakarsa.com/rakifsul/ebook-chatting-dengan-ai-secara-lokal-di-komputer-low-end) karena harganya hanya Rp 5000-an saja.
 
 ### 2025-12-05 02:32
 
