@@ -1,5 +1,9 @@
 # Announcement
 
+### 2025-12-23 23:26
+
+Apakah Anda bingung dalam membuat prompt AI? Tidak tahu apa yang ingin ditanyakan? Tenang saja, kami punya solusinya. Beberapa produk kami memperlihatkan rekaman chat antara manusia dengan AI tentang beberapa topik yang menarik. Silakan cek [di sini](https://karyakarsa.com/rakifsul). Harganya murah. Langsung BELI!
+
 ### 2025-12-21 23:14
 
 I have updated **rakifsul-ngoding** contents by adding Electron js tutorials. Go ahead and [read them](https://github.com/rakifsul/rakifsul-ngoding).
