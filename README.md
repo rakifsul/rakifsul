@@ -1,5 +1,9 @@
 # Announcement
 
+### 2025-12-28 10:26
+
+[RAKIFSUL Ngonten](https://github.com/rakifsul/rakifsul-ngoding) pindah ke Substack. Artikel baru akan di-post di sana. Artikel lama akan di-post secara bertahap. Segera kunjungi dan subscribe. Alamat website-nya adalah [rakifsul.substack.com](https://rakifsul.substack.com). Terima kasih atas perhatiannya.
+
 ### 2025-12-23 23:26
 
 Apakah Anda bingung dalam membuat prompt AI? Tidak tahu apa yang ingin ditanyakan? Tenang saja, kami punya solusinya. Beberapa produk kami memperlihatkan rekaman chat antara manusia dengan AI tentang beberapa topik yang menarik. Silakan cek [di sini](https://karyakarsa.com/rakifsul). Harganya murah. Langsung BELI!
