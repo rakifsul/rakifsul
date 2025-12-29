@@ -1,5 +1,9 @@
 # Announcement
 
+### 2025-12-29 21:12
+
+**Kami batal pindah dari GitHub ke substack, tapi kami akan menggunakan keduanya. Jadi, sekarang Anda bisa membaca RAKIFSUL Ngonten di [repository-nya](https://github.com/rakifsul/rakifsul-ngonten) atau di versi substack-nya dengan nama [RAKIFSUL Lagi Nulis](https://rakifsul.substack.com).**
+
 ### 2025-12-28 10:26
 
 [RAKIFSUL Ngonten](https://github.com/rakifsul/rakifsul-ngonten) pindah ke Substack. Artikel baru akan di-post di sana. Artikel lama akan di-post secara bertahap. Segera kunjungi dan subscribe. Alamat website-nya adalah [rakifsul.substack.com](https://rakifsul.substack.com). Terima kasih atas perhatiannya.
