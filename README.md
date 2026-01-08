@@ -1,5 +1,9 @@
 # Announcement
 
+### 2026-01-09 02:54
+
+**Kami masih ragu apakah artikel baru akan tetap diposting juga di repository [RAKIFSUL Ngonten](https://github.com/rakifsul/rakifsul-ngonten) atau hanya di [RAKIFSUL Lagi Nulis](https://rakifsul.github.io/#https://rakifsul.substack.com) saja**. Agar lebih aman dan tetap up-to-date, **Subscribe [RAKIFSUL Lagi Nulis](https://rakifsul.github.io/#https://rakifsul.substack.com) di Substack sekarang juga!!**
+
 ### 2025-12-29 21:12
 
 **Kami batal pindah dari GitHub ke substack, tapi kami akan menggunakan keduanya. Jadi, sekarang Anda bisa membaca RAKIFSUL Ngonten di [repository-nya](https://github.com/rakifsul/rakifsul-ngonten) atau di versi substack-nya dengan nama [RAKIFSUL Lagi Nulis](https://rakifsul.github.io/#https://rakifsul.substack.com).**
