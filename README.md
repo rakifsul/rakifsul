@@ -20,7 +20,7 @@ Kalau Kamu suka belajar hal teknis dengan tenang, subscribe "RAKIFSUL Lagi Nulis
 
 Biar nambah paham, bukan nambah bingung.
 
-Kalau kamu tidak ingin [subscribe dengan email](https://rakifsul.substack.com), bisa kok [subscribe pakai RSS](rakifsul.substack.com/feed).
+Kalau kamu tidak ingin [subscribe dengan email](https://rakifsul.substack.com), bisa kok [subscribe pakai RSS](https://rakifsul.substack.com/feed).
 
 Dengan penggunaan RSS Feed, maka:
 
