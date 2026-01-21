@@ -30,3 +30,5 @@ Dengan penggunaan RSS Feed, maka:
 - Saya bisa menyampaikan ide saya kepada subscriber saya
 - Saya bisa menjadikan subscriber saya sebagai pelanggan potensial saya
 - Saya bahkan tidak tahu apakah subscriber sudah subscribe
+
+Untuk subscribe RSS, cari [aplikasi atau extension browser untuk RSS](https://www.google.com/search?q=RSS+Reader+App+or+extension) dan [gunakan URL ini](https://rakifsul.substack.com/feed).
