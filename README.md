@@ -1,5 +1,32 @@
-# Announcement
+## Kenapa Anda Harus Subscribe "[RAKIFSUL Lagi Nulis](https://rakifsul.substack.com)"
 
-### 2026-01-09 02:54
+Linux bukan sekadar OS. Ia adalah cara berpikir.
 
-**Kami masih ragu apakah artikel baru akan tetap diposting juga di repository [RAKIFSUL Ngonten](https://github.com/rakifsul/rakifsul-ngonten) atau hanya di [RAKIFSUL Lagi Nulis](https://rakifsul.github.io/?ref=github#https://rakifsul.substack.com) saja**. Agar lebih aman dan tetap up-to-date, **Subscribe [RAKIFSUL Lagi Nulis](https://rakifsul.github.io/?ref=github#https://rakifsul.substack.com) di Substack sekarang juga!!**
+Di RAKIFSUL Lagi Nulis, kita ngobrol soal Linux apa adanya:
+
+- Tips, trik, problem nyata, dan solusi yang masuk akal.
+
+Kadang ngoprek terminal...
+
+Kadang bahas sistem...
+
+Kadang nyentuh coding secukupnya... Tidak berlebihan, tapi berguna.
+
+Tanpa clickbait. Tanpa teori kosong.
+
+Lebih ke catatan lapangan dan pengalaman langsung.
+
+Kalau Kamu suka belajar hal teknis dengan tenang, subscribe "RAKIFSUL Lagi Nulis". 
+
+Biar nambah paham, bukan nambah bingung.
+
+Kalau kamu tidak ingin [subscribe dengan email](https://rakifsul.substack.com), bisa kok [subscribe pakai RSS](rakifsul.substack.com/feed).
+
+Dengan penggunaan RSS Feed, maka:
+
+- Kamu bisa tahu bahwa ada postingan baru
+- Kamu tidak perlu memenuhi inbox emailmu
+- Kamu tidak perlu memberikan identitasmu kepada saya
+- Saya bisa menyampaikan ide saya kepada subscriber saya
+- Saya bisa menjadikan subscriber saya sebagai pelanggan potensial saya
+- Saya bahkan tidak tahu apakah subscriber sudah subscribe
