@@ -1,4 +1,4 @@
-## Kenapa Anda Harus Subscribe "[RAKIFSUL Lagi Nulis](https://rakifsul.substack.com)"
+## Kenapa Anda Harus Subscribe "RAKIFSUL Lagi Nulis"
 
 Linux bukan sekadar OS. Ia adalah cara berpikir.
 
@@ -16,17 +16,17 @@ Tanpa clickbait. Tanpa teori kosong.
 
 Lebih ke catatan lapangan dan pengalaman langsung.
 
-Kalau Kamu suka belajar hal teknis dengan tenang, subscribe "RAKIFSUL Lagi Nulis". 
+Jika Anda suka belajar hal teknis, subscribe "[RAKIFSUL Lagi Nulis](https://rakifsul.substack.com)". 
 
-Biar nambah paham, bukan nambah bingung.
+Biar tambah paham, bukan tambah bingung.
 
-Kalau kamu tidak ingin [subscribe dengan email](https://rakifsul.substack.com), bisa kok [subscribe pakai RSS](https://rakifsul.substack.com/feed).
+Kalau Anda tidak ingin [subscribe dengan email](https://rakifsul.substack.com), bisa kok [subscribe pakai RSS](https://rakifsul.substack.com/feed).
 
 Dengan penggunaan RSS Feed, maka:
 
-- Kamu bisa tahu bahwa ada postingan baru
-- Kamu tidak perlu memenuhi inbox emailmu
-- Kamu tidak perlu memberikan identitasmu kepada saya
+- Anda bisa tahu bahwa ada postingan baru
+- Anda tidak perlu memenuhi inbox email Anda
+- Anda tidak perlu memberikan identitas Anda kepada saya
 - Saya bisa menyampaikan ide saya kepada subscriber saya
 - Saya bisa menjadikan subscriber saya sebagai pelanggan potensial saya
 - Saya bahkan tidak tahu apakah subscriber sudah subscribe
