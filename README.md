@@ -1,34 +1,14 @@
-## Kenapa Anda Harus Subscribe "RAKIFSUL Lagi Nulis"
+# RAKIFSUL Repositories
 
-Linux bukan sekadar OS. Ia adalah cara berpikir.
+## List of Main Projects
 
-Di RAKIFSUL Lagi Nulis, kita ngobrol soal Linux apa adanya:
+- [Rumput - Personal and Multi Purpose Web Dashboard](https://github.com/rakifsul/rumput)
+- [Peminjaman Buku - Library Management System](https://github.com/rakifsul/kode-lainnya/tree/main/rf_peminjaman_buku)
+- [Tank System - Godot Engine Tank System](https://github.com/rakifsul/kode-lainnya/tree/main/rf_tank_system)
+- [Vehicle System - Godot Engine Vehicle System](https://github.com/rakifsul/kode-lainnya/tree/main/rf_vehicle_system)
+- [Dashboard Extension - Chrome Dashboard Extension](https://github.com/rakifsul/kode-lainnya/tree/main/rf_dashboard_chx)
 
-- Tips, trik, problem nyata, dan solusi yang masuk akal.
+## List of Writing Projects
 
-Kadang ngoprek terminal...
-
-Kadang bahas sistem...
-
-Kadang nyentuh coding secukupnya... Tidak berlebihan, tapi berguna.
-
-Tanpa clickbait. Tanpa teori kosong.
-
-Lebih ke catatan lapangan dan pengalaman langsung.
-
-Jika Anda suka belajar hal teknis, subscribe "[RAKIFSUL Lagi Nulis](https://rakifsul.substack.com)". 
-
-Biar tambah paham, bukan tambah bingung.
-
-Kalau Anda tidak ingin [subscribe dengan email](https://rakifsul.substack.com), bisa kok [subscribe pakai RSS](https://rakifsul.substack.com/feed).
-
-Dengan penggunaan RSS Feed, maka:
-
-- Anda bisa tahu bahwa ada postingan baru
-- Anda tidak perlu memenuhi inbox email Anda
-- Anda tidak perlu memberikan identitas Anda kepada saya
-- Saya bisa menyampaikan ide saya kepada subscriber saya
-- Saya bisa menjadikan subscriber saya sebagai pelanggan potensial saya
-- Saya bahkan tidak tahu apakah subscriber sudah subscribe
-
-Untuk subscribe RSS, cari [aplikasi atau extension browser untuk RSS](https://www.google.com/search?q=RSS+Reader+App+or+extension) dan [gunakan URL ini](https://rakifsul.substack.com/feed).
+- [RAKIFSUL Ngoding - Longest Coding Tutorials I've Ever Write](https://github.com/rakifsul/rakifsul-ngoding)
+- RAKIFSUL Ngonten - Moved to [Substack](https://rakifsul.substack.com) and [Blogger](https://8055-notes.blogspot.com)
