@@ -2,8 +2,8 @@
 
 ## List of Tutorials
 
-- [RAKIFSUL Ngonten - Linux Tutorials](https://github.com/rakifsul/rakifsul-ngonten)
-- [RAKIFSUL Ngoding - Longest Coding Tutorials I've Ever Write](https://github.com/rakifsul/rakifsul-ngoding)
+- [RAKIFSUL Ngonten - Technical Blog Written in Indonesian](https://github.com/rakifsul/ngonten)
+- [RAKIFSUL Ngoding - Longest Coding Tutorials I've Ever Write](https://github.com/rakifsul/ngoding)
   
 ## List of Websites
 
@@ -14,7 +14,7 @@
 
 ## List of Downloadable Contents
 
-- [Konten Gratis - Free Contents](https://github.com/rakifsul/konten-gratis)
+- [Free Downloadable Contents](https://github.com/rakifsul/free_downloadable_contents)
 
 ## List of Moved Repositories
 
