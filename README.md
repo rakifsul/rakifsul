@@ -14,7 +14,7 @@
 
 ## List of Downloadable Contents
 
-- [Free Downloadable Contents](https://1024terabox.com/s/1bZ-ARTNp1osv6_gfkcdscw)
+- [Free Downloadable Contents](https://drive.google.com/drive/folders/1HNQhTy3kuqIjX-5dgZoYk9AqIjBokG45?usp=sharing)
 
 ## List of Moved Repositories
 
