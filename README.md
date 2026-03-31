@@ -18,4 +18,4 @@
 
 ## List of Moved Repositories
 
-- RAKIFSUL Ngonten - Moved to [Substack](https://rakifsul.substack.com) and [Blogger](https://8055-notes.blogspot.com)
+- RAKIFSUL Ngonten - Moved to [Substack](https://rakifsul.substack.com)
