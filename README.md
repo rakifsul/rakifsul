@@ -8,7 +8,6 @@
 ## List of Websites
 
 - [RAKIFSUL Lagi Nulis - Technical Blog Written in Indonesian](https://rakifsul.substack.com)
-- [8055 Notes - Technical Blog Written in English](https://8055-notes.blogspot.com)
 - [8055 Apps - Huge List of Software and Its Screenshots](https://8055-apps.blogspot.com)
 - [8055 Engine - Categorized Search Engine](https://8055-engine.blogspot.com)
 
