@@ -2,6 +2,7 @@
 
 ## Websites
 
+- [RAKIFSUL Lagi Nulis](https://rakifsul.substack.com)
 - [8055 Memos - Short Posts, Huge Impacts](https://8055-memos.blogspot.com)
 - [8055 Apps - Huge List of Software and Its Screenshots](https://8055-apps.blogspot.com)
 
@@ -13,4 +14,3 @@
 
 - [RAKIFSUL Ngonten](https://github.com/rakifsul/ngonten)
 - [RAKIFSUL Ngoding](https://github.com/rakifsul/ngoding)
-- [RAKIFSUL Lagi Nulis](https://rakifsul.substack.com)
